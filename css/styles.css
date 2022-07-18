@@ -11793,4 +11793,15 @@ footer a:hover, footer a:active, footer a:focus {
     padding:50px 50px;
   }
 }
-/* css code */
+
+.socialmediaicon{
+  width: 20px !important;
+  height: 20px !important;
+}
+.loadspinner{
+  padding-top: 280px !important;
+}
+
+
+
+/* css code */  
